@@ -32,6 +32,8 @@ To use React in your newly created project, load two React scripts from an exter
 ```
 
 ```js
+// script.js
+
 const app = document.getElementById('app');
 const header = document.createElement('h1');
 const text = 'Develop. Preview. Ship.';
@@ -48,6 +50,7 @@ This will tell React to render our `<h1>` title inside our `#app` element.
 
 ```html
 <!-- index.html -->
+
 <html lang="en">
     <head>
         <title>Getting started with React</title>
@@ -256,16 +259,3 @@ In the next sections, you will be introduced to some core concepts of React from
 [ES Modules and Import / Export Syntax](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Modules)
 
 While this course does not dive into JavaScript, it's good practice to stay up to date with the latest versions of JavaScript. But if you don't feel proficient in JavaScript yet, don't let this hinder you from starting to build with React!
-
-## How you can access this live website
-
-<dl>
-  Use the following URL:
-  <dd>
-    https://olumpeter.github.io/react-foundations/001-getting-started-with-react/
-  </dd>
-  or click the following link:
-  <dd>
-    <a href="https://olumpeter.github.io/react-foundations/001-getting-started-with-react/">Visit website</a>
-  </dd>
-</dl>
