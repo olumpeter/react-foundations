@@ -110,7 +110,7 @@ root.render(
 
 You can keep nesting React components this way to form component trees.
 
-![An example of a component tree](https://github.com/olumpeter/react-foundations/edit/main/002-building-ui-with-components//images/learn-component-tree.avif)
+![An example of a component tree](https://github.com/olumpeter/react-foundations/blob/main/002-building-ui-with-components/images/learn-component-tree.avif)
 
 For example, your top-level HomePage component could hold a Header, an Article, and a Footer Component. And each of those components could in turn have their own child components and so on. For example, the Header component could contain a Logo, Title and Navigation component.
 
