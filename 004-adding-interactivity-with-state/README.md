@@ -122,3 +122,16 @@ Clicking the button will now call the `handleClick` function, which calls the `s
 ## Managing state
 
 This was only an introduction to state, and there's more you can learn about managing state and data flow in your React applications. To learn more, we recommend you go through the [Adding Interactivity](https://react.dev/learn/adding-interactivity) and [Managing State](https://react.dev/learn/managing-state) sections in the React documentation.
+
+## How you can access this live website
+
+<dl>
+  Use the following URL:
+  <dd>
+    https://olumpeter.github.io/react-foundations/004-adding-interactivity-with-state/
+  </dd>
+  or click the following link:
+  <dd>
+    <a href="https://olumpeter.github.io/react-foundations/004-adding-interactivity-with-state/">Visit website</a>
+  </dd>
+</dl>
